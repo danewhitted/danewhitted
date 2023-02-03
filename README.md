@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... front end development
 - 🌱 I’m currently learning ... javascript, css and html
 - 💞️ I’m looking to collaborate on ... front end projects
-- 📫 How to reach me ... danewhitted@Qgmail.com
+- 📫 How to reach me ... danewhitted@gmail.com
 
 <!---
 danewhitted/danewhitted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
